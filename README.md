@@ -6,11 +6,11 @@
 
 ### v2ray
 
-https://clashnode.com/dy/202207/20220715.txt
+https://clashnode.com/wp-content/uploads/2022/07/20220715.txt
 
 ### clash
 
-https://clashnode.com/dy/202207/20220715.yaml
+https://clashnode.com/wp-content/uploads/2022/07/20220715.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
