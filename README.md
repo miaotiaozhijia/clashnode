@@ -1,4 +1,4 @@
-## ⏱️更新时间 2022-07-22 06:52
+## ⏱️更新时间 2022-07-23 08:58
 
 整理不易，还望兄弟们多多 star！
 
@@ -10,11 +10,11 @@ https://t.me/clashnode
 
 ### v2ray
 
-https://clashnode.com/wp-content/uploads/2022/07/20220722.txt
+https://clashnode.com/wp-content/uploads/2022/07/20220723.txt
 
 ### clash
 
-https://clashnode.com/wp-content/uploads/2022/07/20220722.yaml
+https://clashnode.com/wp-content/uploads/2022/07/20220723.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
